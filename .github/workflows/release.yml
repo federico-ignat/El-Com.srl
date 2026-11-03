@@ -1,5 +1,4 @@
 name: Generate EL.COM PDF
-
 on:
   release:
     types: [published]
